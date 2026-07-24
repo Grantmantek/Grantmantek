@@ -13,9 +13,11 @@
   click-to-expand sections below — that's the interactivity used here.
 -->
 
-<!-- ===== ANIMATED GRADIENT BANNER (Classrin blue -> purple -> cyan) ===== -->
+<!-- ===== CLASSRIN WAVES BANNER (animated SVG — a clone of the site's WavesBackground) =====
+     IMPORTANT: this points at waves.svg, which must be committed to this repo
+     ALONGSIDE README.md. Upload BOTH files. The animation plays right inside GitHub. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8CF2,50:8C4CF2,100:33D9F2&height=210&section=header&text=Grant&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=design%20%C2%B7%20code%20%C2%B7%20building%20cool%20things&descAlignY=56&descSize=18&descColor=ffffff" alt="banner" />
+  <img src="./waves.svg" alt="Grant — design · code · building cool things" width="100%" />
 </div>
 
 <!-- ===== LIVE TYPING SUBTITLE (Classrin blue) ===== -->
