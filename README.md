@@ -1,26 +1,8 @@
-<!--
-  ✨ GitHub PROFILE README — themed like Classrin (dev.web.classrin.com) ✨
-  Renders at the top of https://github.com/Grantmantek (repo name must = your username).
 
-  CLASSRIN PALETTE (edit these anywhere you see them):
-    deep navy background  #050A21
-    signature gradient    #4C8CF2 (blue) -> #8C4CF2 (purple) -> #33D9F2 (cyan)
-    accent pink           #F24CA6
-  Everything below is Markdown + a little HTML. <!-- comments --> are invisible on GitHub.
-
-  Note on "interactive": a GitHub README can't run app-style code, but it CAN do
-  animated banners, a live typing line, an auto-updating activity graph, and the
-  click-to-expand sections below — that's the interactivity used here.
--->
-
-<!-- ===== CLASSRIN WAVES BANNER (animated SVG — a clone of the site's WavesBackground) =====
-     IMPORTANT: this points at waves.svg, which must be committed to this repo
-     ALONGSIDE README.md. Upload BOTH files. The animation plays right inside GitHub. -->
 <div align="center">
   <img src="./waves.svg" alt="Grant — design · code · building cool things" width="100%" />
 </div>
 
-<!-- ===== LIVE TYPING SUBTITLE (Classrin blue) ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=4C8CF2&center=true&vCenter=true&width=560&lines=Student+%26+hobbyist+developer+%F0%9F%8C%B1;Design-driven+front-end+%E2%9C%A8;React+%C2%B7+TypeScript+%C2%B7+WebGL+%C2%B7+motion;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing subtitle" />
 </p>
@@ -39,7 +21,6 @@
 - 🛠️ Currently going deep on **React + TypeScript**, with side quests into **Three.js / WebGL**.
 - 💬 Ask me about anything I'm building — I love sharing.
 
-<!-- ===== CLICKABLE (interactive) DROPDOWN — click the ▸ triangle on GitHub ===== -->
 <details>
   <summary><b>🧩 A little more about how I work</b> (click to expand)</summary>
 
@@ -84,10 +65,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<!--
-  Add/remove any badge line. Format: text-COLOR + logo name (see https://simpleicons.org).
-  Delete a language you don't use so the profile stays honest.
--->
 
 ---
 
@@ -102,23 +79,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grantmantek&hide_border=true&background=050A21&ring=4C8CF2&fire=F24CA6&currStreakLabel=4C8CF2&sideLabels=C9D1D9&dates=8B949E&stroke=8C4CF2" alt="streak" />
 </p>
 
-<!-- ===== LIVE ACTIVITY GRAPH (auto-updates, feels interactive) ===== -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grantmantek&bg_color=050A21&color=4C8CF2&line=8C4CF2&point=33D9F2&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<!-- ===== TROPHIES ===== -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Grantmantek&theme=algolia&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
-<!--
-  ⚙️  All the cards above fill in AUTOMATICALLY from your public GitHub activity —
-      you upload no data. They may look blank for a minute on first load, and they
-      only count PUBLIC repos, so numbers grow as you push public projects.
-  🎨  Colors are Classrin's exact palette. To retheme, find/replace the hex codes:
-      050A21 (bg) · 4C8CF2 (blue) · 8C4CF2 (purple) · 33D9F2 (cyan) · F24CA6 (pink)
--->
+
 
 ---
 
