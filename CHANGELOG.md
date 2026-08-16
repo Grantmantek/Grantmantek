@@ -11,3 +11,4 @@ Small, honest increments. (Yes, also feeding the shark. 🦈)
 - 2026-08-16 · entry 8: profile polish, badge grind edition
 - 2026-08-16 · entry 9: profile polish, badge grind edition
 - 2026-08-16 · entry 10: profile polish, badge grind edition
+- 2026-08-16 · entry 11: profile polish, badge grind edition
