@@ -39,6 +39,23 @@ A few through-lines I try to build by:
 
 ---
 
+### 🚀 Featured builds
+
+| | Project | What it is |
+| --- | --- | --- |
+| 🧊 | [fluxform](https://github.com/Grantmantek/fluxform) | Interactive Three.js GLSL shader toy |
+| 🧊 | [threejs-shader-playground](https://github.com/Grantmantek/threejs-shader-playground) | Live GLSL editor with uniform sliders and shareable URLs |
+| 🧊 | [threejs-scroll-scene](https://github.com/Grantmantek/threejs-scroll-scene) | Scroll-driven camera path with a reduced-motion fallback |
+| 🧊 | [threejs-product-configurator](https://github.com/Grantmantek/threejs-product-configurator) | Orbit, swap materials & colors, export a PNG |
+| 🎨 | [canvas-particle-field](https://github.com/Grantmantek/canvas-particle-field) | Zero-dependency, pointer-reactive particle field |
+| 🎨 | [canvas-image-editor](https://github.com/Grantmantek/canvas-image-editor) | In-browser crop/rotate/adjust with full-res export |
+| 🧱 | [design-tokens-pipeline](https://github.com/Grantmantek/design-tokens-pipeline) | One `tokens.json` → CSS variables, Tailwind theme, TS types |
+| 🧱 | [tailwind-landing-kit](https://github.com/Grantmantek/tailwind-landing-kit) | Accessible 8-section landing starter with dark mode |
+| 🤖 | [robot-arm](https://github.com/Grantmantek/robot-arm) | 3-servo Arduino arm — GUI, web panel, face tracking |
+| 🤖 | [gesture-cam-rig](https://github.com/Grantmantek/gesture-cam-rig) | Pan/tilt rig — face tracking + hand-gesture air-mouse |
+
+---
+
 ### 🧰 My stack
 
 <b>Languages</b>
